@@ -1,1 +1,37 @@
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 7px;
+    border-style: none;
+    cursor: pointer;
+}
+.bg1{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 6%;
+}
+.flex-shrink-0{
+    color: #ffce19;
+    font-weight: 600;
+    cursor: pointer;
+}
+.card img{
+    width: 60%;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    align-items: center;
+}
+.card-body h5, p{
+    text-align: center;
+}
+.card-footer{
+    
 
+}
