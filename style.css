@@ -56,7 +56,22 @@ background: linear-gradient(to right, #f69ec4, #f9dd94 100%);
 background-position: 0 100%;
 background-size: 100% 5px;
 background-repeat: repeat-x;
+
 }
 .last-img img{
     width: 100%;
+}
+.img-1{
+    margin-bottom: 70px;
+}
+.img-border{
+    border: gray solid 1px;
+    box-shadow: 5px 5px 10px whitesmoke;
+    padding: 20px;
+    box-shadow: 5px 5px 10px rgb(230, 223, 223);
+    cursor: pointer;
+}
+.last-sec{
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
