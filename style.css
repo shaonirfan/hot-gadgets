@@ -24,14 +24,39 @@
 }
 .card{
     border: none;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px !important;
+    box-shadow: 5px 5px 10px rgb(230, 223, 223);
     align-items: center;
 }
-.card-body h5, p{
+.card-body h5{
     text-align: center;
 }
-.card-footer{
-    
-
+.card-body p{
+    text-align: center;
+}
+.card-footer {
+    background-color: white !important;
+    border-top: none !important;
+}
+.card-footer h5{
+    text-align: center;
+}
+#smartphone{
+    margin-bottom: 100px;
+}
+#laptop{
+    margin-bottom: 100px;
+}
+h3{
+    text-align: center;
+}
+.underline{
+            
+background: linear-gradient(to right, #f69ec4, #f9dd94 100%);
+background-position: 0 100%;
+background-size: 100% 5px;
+background-repeat: repeat-x;
+}
+.last-img img{
+    width: 100%;
 }
