@@ -25,7 +25,8 @@
 .card{
     border: none;
     border-radius: 10px !important;
-    box-shadow: 5px 5px 10px rgb(230, 223, 223);
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    background-color: white !important;
     align-items: center;
 }
 .card-body h5{
@@ -66,9 +67,9 @@ background-repeat: repeat-x;
 }
 .img-border{
     border: gray solid 1px;
-    box-shadow: 5px 5px 10px whitesmoke;
+    background-color: white;
     padding: 20px;
-    box-shadow: 5px 5px 10px rgb(230, 223, 223);
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
     cursor: pointer;
 }
 .last-sec{
